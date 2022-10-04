@@ -1,3 +1,2 @@
 # Nature_Inspired_Algorithms
-
-<img src="https://onlinelibrary.wiley.com/cms/asset/fff7fbd0-2c12-4272-8e75-a8612e75e607/dac4895-fig-0005-m.jpg">
+![image](https://user-images.githubusercontent.com/62771420/193807560-2b30858f-7312-402f-944a-781cff5821cd.png)
